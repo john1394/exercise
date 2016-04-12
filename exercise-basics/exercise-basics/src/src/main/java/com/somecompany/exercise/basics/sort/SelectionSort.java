@@ -1,4 +1,4 @@
-package com.feinno.exercise.basics.sort;
+package com.somecompany.exercise.basics.sort;
 
 import java.util.List;
 

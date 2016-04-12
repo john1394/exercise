@@ -1,4 +1,4 @@
-package com.feinno.exercise;
+package com.somecompany.exercise;
 
 import org.junit.Test;
 

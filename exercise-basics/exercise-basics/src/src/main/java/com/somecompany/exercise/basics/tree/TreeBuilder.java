@@ -1,4 +1,4 @@
-package com.feinno.exercise.basics.tree;
+package com.somecompany.exercise.basics.tree;
 
 import java.io.File;
 import java.util.Stack;

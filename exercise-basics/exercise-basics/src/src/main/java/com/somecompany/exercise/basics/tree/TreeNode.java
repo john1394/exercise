@@ -1,4 +1,4 @@
-package com.feinno.exercise.basics.tree;
+package com.somecompany.exercise.basics.tree;
 
 import java.util.ArrayList;
 import java.util.List;
